@@ -25,7 +25,7 @@ const (
 	// SortBySubmittedDate ...
 	SortBySubmittedDate = "submittedDate"
 
-	resultsLimit = 10
+	resultsLimit = 1000
 )
 
 // FeedResolver : Resolver for query { feed }
